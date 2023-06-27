@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.AssemblyInfo.cs
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\bin\Debug\net6.0\MatrixRain.exe
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\bin\Debug\net6.0\MatrixRain.deps.json
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\bin\Debug\net6.0\MatrixRain.runtimeconfig.json
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\bin\Debug\net6.0\MatrixRain.dll
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\bin\Debug\net6.0\MatrixRain.pdb
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.dll
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\refint\MatrixRain.dll
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.pdb
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\MatrixRain.genruntimeconfig.cache
+C:\Users\danie\source\repos\MatrixRain\MatrixRain\obj\Debug\net6.0\ref\MatrixRain.dll
